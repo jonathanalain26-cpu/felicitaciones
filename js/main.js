@@ -24,9 +24,9 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   const messages = [
     'Esta flor es para ti hermosa',
     'Te quiero mucho',
-    'Kristal Mariell 🌻',
+    'Lirios para mis delirio🌻',
     '¡Eres especial en mi corazón!',
-    '¡Feliz cumpleaños Kristal 💖!'
+    '¡Amiga Esecial 💖!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
